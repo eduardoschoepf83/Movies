@@ -1,4 +1,4 @@
-// Helpers/filmsData.js
+// Data/filmsData.js
 let data = [
     {
         id:181808,
